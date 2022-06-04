@@ -12,11 +12,26 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 </br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rohit-dumka-337362175/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17722402/walking-dead">
+    <img src="https://img.shields.io/badge/Stackoverflow-lime?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <a href="torohitdumka1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Dumka&style=flat-square&color=blue" alt=""/>
 
-### 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/rohit-dumka-337362175/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> </br>
-
-
+  <h1>
+  hey there 👋
+</h1>
+  
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Dumka)](https://github.com/Rohit-Dumka/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact)](https://github.com/Rohit-Dumka/github-readme-stats)
