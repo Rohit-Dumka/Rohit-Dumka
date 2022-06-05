@@ -44,7 +44,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit-Dumka&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
                                                                                                             
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Dumka)](https://github.com/Rohit-Dumka/github-readme-stats)
