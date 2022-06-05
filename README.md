@@ -49,10 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-                                                                                                            
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Dumka)](https://github.com/Rohit-Dumka/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact)](https://github.com/Rohit-Dumka/github-readme-stats)
 
 <!---
 Rohit-Dumka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
