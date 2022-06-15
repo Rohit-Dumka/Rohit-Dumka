@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I create web applications and read tech articles.
 
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: React js
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
