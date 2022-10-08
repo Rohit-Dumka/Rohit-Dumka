@@ -28,7 +28,7 @@
 ### :man_technologist: About me:
 - :telescope: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :zap: In my free time, I create web applications and read tech articles.
+- :zap: In my free time, I create websites/webapps and read tech articles.
 
 - 🌱 I’m currently learning: React js
 
