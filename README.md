@@ -28,7 +28,7 @@
 ### :man_technologist: About me:
 - :telescope: Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :zap: In my free time, I learn code in c++ and read tech articles.
+- :zap: In my free time, I code in c++ and read tech articles.
 
 
 
