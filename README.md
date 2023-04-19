@@ -48,9 +48,10 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit-Dumka&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Dumka&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Dumka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 <!---
@@ -60,6 +61,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 
-
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Dumka)](https://github.com/anuraghazra/github-readme-stats)
-
