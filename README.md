@@ -109,4 +109,4 @@
 
 ## 
 
-![snake animation](https://github.com/Rohit-Dumka/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/Rohit-Dumka/blob/output/github-contribution-grid-snake2.svg) -->
