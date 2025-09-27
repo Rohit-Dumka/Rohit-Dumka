@@ -31,8 +31,6 @@
 
 - :zap: In my free time, I code and read tech articles.
 
-- :books: MCA Graduate
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
